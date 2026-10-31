@@ -1,0 +1,32 @@
+product,avg_daily_sales,reorder_level,current_stock
+Alfajores,2.32,5,23
+Baguette,0.96,2,4
+Bread,20.91,42,19
+Brownie,2.38,5,20
+Cake,6.45,13,4
+Chicken Stew,0.77,2,3
+Coffee,34.41,69,131
+Coke,1.16,3,3
+Cookies,3.4,7,29
+Farm House,2.35,5,7
+Frittata,0.51,2,2
+Fudge,1.0,2,3
+Hearty & Seasonal,0.67,2,2
+Hot chocolate,3.71,8,13
+Jam,0.94,2,3
+Jammie Dodgers,0.79,2,2
+Juice,2.32,5,5
+Medialuna,3.87,8,14
+Mineral water,0.86,2,3
+Muffin,2.33,5,21
+Pastry,5.38,11,17
+Salad,0.62,2,3
+Sandwich,4.85,10,3
+Scandinavian,1.74,4,4
+Scone,2.06,5,6
+Soup,2.15,5,2
+Spanish Brunch,1.08,3,4
+Tea,9.03,19,22
+Tiffin,0.92,2,4
+Toast,2.0,4,6
+Truffles,1.21,3,3
